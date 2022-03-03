@@ -1,6 +1,0 @@
-agile.heaptrace.com
-blog.heaptrace.com
-kb.heaptrace.com
-www.heaptrace.com
-heaptrace.com
-v1.heaptrace.com
