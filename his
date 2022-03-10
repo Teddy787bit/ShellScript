@@ -1,0 +1,999 @@
+  424  history
+  425  sudo -u postgres psql
+  426  init
+  427  init 6
+  428  sudo apt-get instal build-essential
+  429  sudo apt-get install build-essential
+  430  sudo apt-get install libgtk2.0doc devhelp
+  431  sudo apt install libgtk-3-dev
+  432  add-apt-repository ppa:eugenesan/ppa
+  433  sudo add-apt-repository ppa:eugenesan/ppa
+  434  apt-get update 
+  435  sudo apt-get update 
+  436  apt-get install gtk3-nocsd -y
+  437  sudo apt-get install gtk3-nocsd -y
+  438  gcc --version
+  439  pkg-config --version 
+  440  apt info ligtk-3-0
+  441  sudo apt-get install libgtk-3-0
+  442  init 6
+  443  ll /usr/include
+  444  sudo apt-get install libgtk2.0-dev
+  445  sudo apt-get install libgtk3-dev
+  446  sudo apt-get install libgtk-3-dev
+  447  sudo apt-get install build-essential gnome-devel
+  448  clear
+  449  gtk3-nocsd 
+  450  man gtk3-nocsd 
+  451  gcc main.c -o p1
+  452  gcc gui.c -o gui `pkg-config --cflags --libs gtk+-2.0`
+  453  ./gui 
+  454  gcc gui.c -o gui `pkg-config --cflags --libs gtk+-3.0`
+  455  sudo su
+  456  cd "/home/pradip/Code/" && gcc gui.c -o gui && "/home/pradip/Code/"gui
+  457  cd "/home/pradip/Code/" && gcc tempCodeRunnerFile.c -o tempCodeRunnerFile && "/home/pradip/Code/"tempCodeRunnerFile
+  458  ls /usr/include/gtk-3.0/gtk/gtk.h
+  459  cat /usr/include/gtk-3.0/gtk/gtk.h
+  460  clear
+  461  cd Code/
+  462  ls
+  463  gcc `pkg-config --cflags gtk+-3.0` -o file file.c `pkg-config --libs gtk+-3.0`
+  464  ll
+  465  gcc `pkg-config --cflags gtk+-3.0` -o gtkgui gtk3.c `pkg-config --libs gtk+-3.0`
+  466  ./gtkgui 
+  467  gcc `pkg-config --cflags gtk+-3.0` -o gtkgui gtk3.c `pkg-config --libs gtk+-3.0`
+  468  ./gtkgui 
+  469  gcc `pkg-config --cflags gtk+-3.0` -o gtkgui gtk3.c `pkg-config --libs gtk+-3.0`
+  470  ./gtkgui 
+  471  ping 8.8.8.8
+  472  init 6
+  473  cd "/home/pradip/Code/" && gcc gtk3.c -o gtk3 && "/home/pradip/Code/"gtk3
+  474  g++ -v
+  475  pkg-config --cflags --libs gtk+-3.0
+  476  dpkg -l libgtk2.0-0 libgtk-3-0
+  477  ;s
+  478  ls /usr/include/gtk-3.0/gtk/
+  479  ls /usr/include/gtk-3.0/gtk/ | grep .h
+  480  ls /usr/include/gtk-3.0/gtk/ | grep gtk'.h
+  481  ls /usr/include/gtk-3.0/gtk/ | grep gtk.h
+  482  ls /usr/include/gtk-3.0/gtk/gtk.h /usr/include/
+  483  cp /usr/include/gtk-3.0/gtk/gtk.h /usr/include/
+  484  sudp cp /usr/include/gtk-3.0/gtk/gtk.h /usr/include/
+  485  sudo cp /usr/include/gtk-3.0/gtk/gtk.h /usr/include/
+  486  ll
+  487  git add ./ssh/id_ed25519
+  488  ssh add ./ssh/id_ed25519
+  489  eval $(ssh-agent)
+  490  ssh-add ./ssh/id_ed25519
+  491  chmod 400 ~/.ssh/id_rsa
+  492  sudo chmod 400 ~/.ssh/id_rsa
+  493  sudo chmod 400 ~/.ssh/id_ed25519
+  494  ssh-add ./ssh/id_ed25519
+  495  ls -ltr
+  496  ls -altr
+  497  sudo chmod 400 ~/.ssh/id_ed25519.pub 
+  498  ssh-add ./ssh/id_ed25519
+  499  chmod 400 ~/.ssh/id_ed25519
+  500  sudo chmod 400 ~/.ssh/id_ed25519
+  501  chmod 400 ~/.ssh/id_ed25519.pub 
+  502  sudo chmod 400 ~/.ssh
+  503  ssh-add ./ssh/id_ed25519
+  504  ls -ltra .ssh/
+  505  sudo ls -ltra .ssh/
+  506  cd .ssh/
+  507  sudo cd .ssh/
+  508  sudo cd .ssh
+  509  gcc `pkg-config --cflags gtk+-3.0` -o file file.c `pkg-config --libs gtk+-3.0`
+  510  gcc `pkg-config --cflags gtk+-3.0` -o gtk3 gtk3.c `pkg-config --libs gtk+-3.0`
+  511  ./gtk3
+  512  ls -la .ssh/
+  513  sudo ls -la .ssh/
+  514  sudo ls -la .ssh/.
+  515  sudo ssh-add ./ssh/id_ed25519
+  516  ssh-add ./ssh/id_ed25519
+  517  sudo chmod 400 ~/.ssh/*
+  518  ssh-add ./ssh/id_ed25519
+  519  sudo su
+  520  history 
+  521  ll
+  522  ll | grep Code/
+  523  ll | grep Code/*
+  524  cd Code/
+  525  ll
+  526  chmod 777 *
+  527  sudo chmod 777 *
+  528  ll
+  529  chmod 777 Code/
+  530  chmod 777 Code/*
+  531  sudo chmod 777 Code/*
+  532  cd Code/cpp
+  533  cd Code/Cpp
+  534  ls
+  535  chmod 777 
+  536  chmod 777 *
+  537  sudo chmod 777 *
+  538  chmod  777 .git/
+  539  sudo chmod  777 .git
+  540  cd .0
+  541  cd ..
+  542  cat /etc/passwd | grep pradip
+  543  sudo chown -R pradip:Pradip *
+  544  sudo chown -R pradip:pradip *
+  545  git config --global user.email "pradip@ht.com"
+  546  git config --global user.name "Pradip219"
+  547  cd Cpp/
+  548  git push
+  549  ssh -T git@github.com
+  550  sudo su
+  551  ssh-add /root/.ssh/id_rsa
+  552  sudo ssh-add /root/.ssh/id_rsa
+  553  sudo ssh-add /root/.ssh/id_rsa.pub
+  554  ssh-agent /bin/sh
+  555  chown -R  pradip:pradip .ssh
+  556  sudo chown -R  pradip:pradip .ssh
+  557  ls -ltra .ssh/
+  558  ssh-add ~/.ssh/id_rsa.pub 
+  559  ssh-add ~/.ssh/id_rsa
+  560  ssh-add ~/.ssh/id_ed25519 
+  561  gedit .ssh/id_rsa.pub 
+  562  python -V
+  563  python3 -V
+  564  brew doctor
+  565  ssh-keygen -l -f .ssh/id_rsa.pub
+  566  cd .ssh/
+  567  touch foo.txt
+  568  ssh-keygen -l -f foo.txt 
+  569  ssh-keygen -y -f id_rsa
+  570  ssh-keygen -y -f id_rsa.pub 
+  571  -v
+  572  --v
+  573  nano config
+  574  ssh-keygen -y -f id_rsa.pub 
+  575  rm -r .ssh
+  576  rm -rd .ssh
+  577  cd ..
+  578  rm -rd .ssh/
+  579  rm -d .ssh
+  580  rm -dr .ssh
+  581  ll
+  582  $ ssh-keygen -t ed25519 -C "pradipwaghela@outlook.com"
+  583  eval "$(ssh-agent -s)"
+  584  ssh -T git@github.com
+  585  gedit .ssh/id_ed25519.pub 
+  586  ssh -T git@github.com
+  587  eval `ssh-agent -s`
+  588  git remote -C
+  589  git remote -V
+  590  git remote -v
+  591  ssh -v git@github.com
+  592  cp /root/.ssh /home/pradip/
+  593  sudo cp /root/.ssh /home/pradip/
+  594  sudo cp -r /root/.ssh /home/pradip/
+  595  ls -a
+  596  ssh-add .ssh/id_rsa
+  597  sudo ssh-add .ssh/id_rsa
+  598  sudo ssh-add .ssh/id_rsa.pub 
+  599  sudo ssh-add .ssh/id_ed25519 
+  600  ls -ltr 
+  601  ls -ltra 
+  602  ls -ltra  .ssh/
+  603  chmod .ssh pradip:pradip
+  604  pwd
+  605  man chown
+  606  sudo su
+  607  ping 8.8.8.8
+  608  history
+  609  clear
+  610  cd ..
+  611  scp l4_Pradip_W htadmin@192.168.0.20:~\Inventory
+  612  scp l4_Pradip_w htadmin@192.168.0.20:~/Inventory
+  613  cd Desktop/
+  614  ll
+  615  scp l4_Pradip_w htadmin@192.168.0.20:~/Inventory
+  616  scp l4_Pradip_W  htadmin@192.168.0.20:~/Inventory
+  617  clear
+  618  scp htadmin@192.168.0.20:~/Downloads/scripts/in.sh /home/pradip/Desktop/
+  619  scp htadmin@192.168.0.20:~/Downloads/scrips/in.sh /home/pradip/Desktop/
+  620  scp htadmin@192.168.0.20:~/Downloads/script/in.sh /home/pradip/Desktop/
+  621  cd Desktop/
+  622  ls
+  623  ./in.sh l4_Pradip_W
+  624  ./in.sh > l4_Pradip_W
+  625  scp l4_Pradip_W htadmin@192.168.0.20:~\Invrntory
+  626  ssh htadmin@192.168.0.20
+  627  gcc `pkg-config --cflags gtk+-3.0` -o file file.c `pkg-config --libs gtk+-3.0`
+  628  gcc `pkg-config --cflags gtk+-3.0` -o geekgetk geekgetk.c `pkg-config --libs gtk+-3.0`
+  629  gcc geekgetk.c $(pkg-config --cflags --libs gtk+-3.0) -o geekgtk
+  630  ls
+  631  cd Desktop/
+  632  ls
+  633  cd ..
+  634  cd Downloads/
+  635  ls
+  636  gedit heaptrace-email-signature.html 
+  637  fast
+  638  sudo snap install fast
+  639  fast
+  640  init 6
+  641  ping 192.168.1.89
+  642  cd /usr/share/dia/
+  643  cd /usr/share/
+  644  sudo apt install dia-rib-network
+  645  gedit matterial
+  646  sudo tar xf rib-network-v0.1.tar.gz
+  647  cp sheets/ /usr/share/dia/
+  648  cp -r sheets/ /usr/share/dia/
+  649  sudo cp -r sheets/ /usr/share/dia/
+  650  la /usr/share/dia/
+  651  la /usr/share/dia/shapes/
+  652  init 6
+  653  watch 
+  654  watch ip -a
+  655  watch ip -4 a
+  656  watch ssh
+  657  watch ssh -E
+  658  cd /var/www/
+  659  ls
+  660  mkdir praidp
+  661  mkdir pradip
+  662  sudo mkdir pradip
+  663  cd pradip/
+  664  sudo nano index.html
+  665  sudo mv index.html index.php
+  666  cd ..
+  667  mv pradip /var/www/html/
+  668  sudo mv pradip /var/www/html/
+  669  cd html/pradip/
+  670  ll
+  671  sudo mv index.php index.html
+  672  ping 8.8.8.8
+  673  whereis packettracer
+  674  cd /usr/local/bin/
+  675  ll
+  676  cat packettracer 
+  677  cd /opt/pt/
+  678  ls
+  679  ll
+  680  cd "/home/pradip/Code/c/Assignment/" && gcc star.c -o star && "/home/pradip/Code/c/Assignment/"star
+  681  cd "/home/pradip/Code/c/Assignment/" && gcc pyra2.c -o pyra2 && "/home/pradip/Code/c/Assignment/"pyra2
+  682  cd "/home/pradip/Code/c/Assignment/" && gcc pyramid.c -o pyramid && "/home/pradip/Code/c/Assignment/"pyramid
+  683  cd "/home/pradip/Code/c/Assignment/" && gcc patt2.c -o patt2 && "/home/pradip/Code/c/Assignment/"patt2
+  684  cd "/home/pradip/Code/c/Assignment/" && gcc Salary.c -o Salary && "/home/pradip/Code/c/Assignment/"Salary
+  685  cd "/home/pradip/Code/c/Assignment/" && gcc stdmark.c -o stdmark && "/home/pradip/Code/c/Assignment/"stdmark
+  686  cd "/home/pradip/Code/c/Assignment/" && gcc tempCodeRunnerFile.c -o tempCodeRunnerFile && "/home/pradip/Code/c/Assignment/"tempCodeRunnerFile
+  687  cd "/home/pradip/Code/c/Assignment/" && gcc pyramid.c -o pyramid && "/home/pradip/Code/c/Assignment/"pyramid
+  688  ping 192.168.1.5
+  689  ssh root@192.168.1.5
+  690  sudo apt-get install -y libxcb-xinerama0-dev
+  691  packettracer
+  692  d /opt/pt
+  693  cd /opt/pt
+  694  ls
+  695  sudo chmod +x postinstall.sh
+  696  LL
+  697  ll
+  698  ./packettracer 
+  699  which packettracer 
+  700  cd /usr/local/bin/
+  701  packettracer 
+  702  sudo apt-get update
+  703  sudo apt-get install libpng12-0
+  704  packettracer 
+  705  ssh root@192.168.1.5
+  706  cd "/home/pradip/Code/c/Assignment/" && gcc stdmark.c -o stdmark && "/home/pradip/Code/c/Assignment/"stdmark
+  707  cd "/home/pradip/Code/c/Assignment/" && gcc mt.c -o mt && "/home/pradip/Code/c/Assignment/"mt
+  708  cd "/home/pradip/Code/c/Assignment/" && gcc stdmark.c -o stdmark && "/home/pradip/Code/c/Assignment/"stdmark
+  709  cd "/home/pradip/Code/c/Assignment/" && gcc retr.c -o retr && "/home/pradip/Code/c/Assignment/"retr
+  710  cd "/home/pradip/Code/c/Assignment/" && gcc pyramid.c -o pyramid && "/home/pradip/Code/c/Assignment/"pyramid
+  711  cd "/home/pradip/Code/c/Assignment/" && gcc retr.c -o retr && "/home/pradip/Code/c/Assignment/"retr
+  712  ll
+  713  py
+  714  pyton
+  715  python
+  716  sudo apt-get install idle3
+  717  sudo apt-get update
+  718  python -u "/home/pradip/Code/Python/hello.py"
+  719  /usr/bin/python3.9 /home/pradip/Code/Python/hello.py
+  720  /usr/bin/python3.9 /home/pradip/Code/Python/dogage.py
+  721  /usr/bin/python3.9 /home/pradip/Code/Python/precedence.py
+  722  /usr/bin/python3.9 /home/pradip/Code/Python/cupgame.py
+  723  nano Metting24_01_2022'
+  724  nano Metting24_01_2022
+  725  cd "/home/pradip/Code/Cpp/project/" && g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/home/pradip/Code/Cpp/project/"tempCodeRunnerFile
+  726  cd "/home/pradip/Code/Cpp/project/" && g++ Book.cpp -o Book && "/home/pradip/Code/Cpp/project/"Book
+  727  cd "/home/pradip/Code/Cpp/project/" && g++ Drunk.cpp -o Drunk && "/home/pradip/Code/Cpp/project/"Drunk
+  728  cd "/home/pradip/Code/Cpp/Assignment/" && gcc 1_oinfact.c -o 1_oinfact && "/home/pradip/Code/Cpp/Assignment/"1_oinfact
+  729  clear
+  730  cd "/home/pradip/Code/Cpp/Assignment/" && g++ 1_oinfact.cpp -o 1_oinfact && "/home/pradip/Code/Cpp/Assignment/"1_oinfact
+  731  cd "/home/pradip/Code/Cpp/Programs/" && g++ file.cpp -o file && "/home/pradip/Code/Cpp/Programs/"file
+  732  cd "/home/pradip/Code/Cpp/Programs/" && g++ Outfile.cpp -o Outfile && "/home/pradip/Code/Cpp/Programs/"Outfile
+  733  cd "/home/pradip/Code/Cpp/Programs/" && g++ infile.cpp -o infile && "/home/pradip/Code/Cpp/Programs/"infile
+  734  cd "/home/pradip/Code/Cpp/Programs/" && g++ Outfile.cpp -o Outfile && "/home/pradip/Code/Cpp/Programs/"Outfile
+  735  cd "/home/pradip/Code/Cpp/Programs/" && g++ infile.cpp -o infile && "/home/pradip/Code/Cpp/Programs/"infile
+  736  cd "/home/pradip/Code/Cpp/Programs/" && g++ file.cpp -o file && "/home/pradip/Code/Cpp/Programs/"file
+  737  cd "/home/pradip/Code/Cpp/Programs/" && g++ openf.cpp -o openf && "/home/pradip/Code/Cpp/Programs/"openf
+  738  cd "/home/pradip/Code/Cpp/Programs/" && g++ 1_Template.cpp -o 1_Template && "/home/pradip/Code/Cpp/Programs/"1_Template
+  739  man vscode
+  740  vscode:/
+  741  vscode://add.cpp /home/pradip/Code/Cpp/
+  742  ping 192.168.1.20
+  743  ip 
+  744  ip a
+  745  ping 192.168.0.20
+  746  scp htadmin@192.168.0.20:~/Downloads/script/in.sh /home/pradip/Documents/
+  747  cd Dc
+  748  cd Documents/
+  749  ls
+  750  ip a
+  751  scp in.sh admin1@192.168.1.23:~/Desktop
+  752  sudo apt-get install python3-tk
+  753  sudo apt autoremove 
+  754  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  755  npm install turtle
+  756  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  757  npm install tkinter
+  758  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  759  pip install turtle
+  760  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  761  pip install tkinter
+  762  pip3 install Tkinter
+  763  pip3 install tkinter
+  764  sudo update-python-modules -a
+  765  sudo apt-get install python3-tk
+  766  sudo update-python-modules -a
+  767  sudo apt-get install python-support
+  768  sudo apt-get update
+  769  sudo apt-get install python-tk python3-tk tk-dev
+  770  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  771  sudo apt-get install python-tk python3-tk tk-dev
+  772  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  773  sudo tar -xzf jetbrains-toolbox-1.22.10970.tar.gz -c /opt
+  774  sudo tar -xzf jetbrains-toolbox-1.22.10970.tar.gz -C /opt
+  775  sudo cd /proc/
+  776  sudo cd /opt/
+  777  sudo cd /opt
+  778  cd /opt
+  779  ll
+  780  cd jetbrains-toolbox-1.22.10970/
+  781  ll
+  782  ./jetbrains-toolboxjet
+  783  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  784  py
+  785  python
+  786  cd Code/
+  787  cd Python/
+  788  ls
+  789  ll
+  790  /usr/bin/python3.9 /home/pradip/Code/Python/.idea/pyv.py
+  791  /usr/bin/python3.9 /home/pradip/Code/Python/Doremon.py
+  792  /usr/bin/python /home/pradip/Code/Python/Doremon.py
+  793  /usr/bin/python /home/pradip/Code/Python/Shap.py
+  794  exit
+  795  /usr/bin/python /home/pradip/Code/Python/Shap.py
+  796  wget -O - https://dbeaver.io/debs/dbeaver.gpg.key | sudo apt-key add -
+  797  echo "deb https://dbeaver.io/debs/dbeaver-ce /" | sudo tee /etc/apt/sources.list.d/dbeaver.list
+  798  sudo apt install dbeaver-ce
+  799  snap install dbeaver-ce
+  800  wget -O - https://dbeaver.io/debs/dbeaver.gpg.key | sudo apt-key add -
+  801  apt-get update -y
+  802  sudo apt-get update -y
+  803  wget -O - https://dbeaver.io/debs/dbeaver.gpg.key | apt-key add -
+  804  sudo wget -O - https://dbeaver.io/debs/dbeaver.gpg.key | apt-key add -
+  805  sudo su
+  806  git init
+  807  git clone git@github.com:Teddy787bit/Studentmarks.git
+  808  deb http://oss.oracle.com/debian unstable main non-free
+  809  wget http://oss.oracle.com/el4/RPM-GPG-KEY-oracle -O- | sudo apt-key add -
+  810  top
+  811  top | grep dbever
+  812  top | grep 'db'
+  813  ip a
+  814  ping 192.168.1.151
+  815  sudo apt-get install samba
+  816  ip a
+  817  ./install-sh 
+  818  ./install-sh.sh
+  819  ./install-sh
+  820  sudo apt-get install -y tuxtype
+  821  sudo apt-get install gtypist
+  822  ip a
+  823  dpkg --list
+  824  dpkg --info packageName
+  825  getenforce
+  826  sudo apt install selinux-utils
+  827  getenforce
+  828  awk -F: '($2 == "") {print}' /etc/shadow
+  829  sudo awk -F: '($2 == "") {print}' /etc/shadow
+  830  sudo awk -F: '($3 == "0") {print}' /etc/passwd
+  831  sudoedit /etc/sudoers
+  832  nano /var/log/sudo.log
+  833  sudoedit /etc/sudoers
+  834  sudo awk -F: '($3 == "0") {print}' /etc/passwd
+  835  sudoedit /etc/sudoers
+  836  nano  /etc/sudoers
+  837  sudo nano  /etc/sudoers
+  838  car /etc/sudoers
+  839  cat /etc/sudoers
+  840  sudo cat /etc/sudoers
+  841  gedit /etc/sudoers
+  842  su
+  843  su -
+  844  sudo su -
+  845  su root
+  846  sudo -i
+  847  passwd root
+  848  sudo passwd root
+  849  history
+  850  init 6
+  851  su root
+  852  sudo apt update
+  853  sudo cat /var/log/sudo.log 
+  854  history
+  855  service --status-all | more
+  856  journalctl
+  857  netstat -tulpn
+  858  ss -tulpn
+  859  cat /etc/fstab
+  860  echo /etc/fstab
+  861  find /dir -xdev -type d \( -perm -0002 -a ! -perm -1000 \) -print
+  862  logwatch
+  863  sudo apt install logwatch
+  864  logcheck
+  865  logwatch
+  866  sudo logwatch
+  867  sudo apt install logcheck
+  868  logcheck
+  869  man logcheck
+  870  logcheck -h
+  871  logcheck -d
+  872  sudo logcheck -d
+  873  su logcheck -d
+  874  clear
+  875  faillog -a
+  876  history
+  877  faillog
+  878  man faillo
+  879  man faillogg
+  880  man faillog
+  881  chkconfig --list | grep '3:on'
+  882  systemctl list-unit-files --type=service
+  883  systemctl list-unit-files 
+  884  netstat -tulpn
+  885  init 6
+  886  sudo init 6
+  887  find / -perm +4000
+  888  find / * -perm -4000 -type f -exec ls -ld {} \; > setuid.txt
+  889  sudo systemctl restart anydesk
+  890  sudo systemctl status anydesk
+  891  find /dir -xdev -type d \( -perm -0002 -a ! -perm -1000 \) -print
+  892  find /dev/sda1 -xdev -type d \( -perm -0002 -a ! -perm -1000 \) -print
+  893  find /dev/sda1 -xdev \( -nouser -o -nogroup \) -print
+  894  cd "/home/pradip/Code/Cpp/Programs/" && g++ testfri.cpp -o testfri && "/home/pradip/Code/Cpp/Programs/"testfri
+  895  cd "/home/pradip/Code/Cpp/Programs/" && g++ friclass.cpp -o friclass && "/home/pradip/Code/Cpp/Programs/"friclass
+  896  cd "/home/pradip/Code/Cpp/Programs/" && g++ protected.cpp -o protected && "/home/pradip/Code/Cpp/Programs/"protected
+  897  init 6
+  898  ll
+  899  cd apache2/
+  900  sudocd apache2/
+  901  sudo cd apache2/
+  902  sudo cd apache2
+  903  less ubuntu-advantage
+  904  less ubuntu-advantage.log 
+  905  sudo less ubuntu-advantage.log 
+  906  sudo su
+  907  sudo apt-get install fail2ban
+  908  sudo vi /etc/fail2ban/jail.conf
+  909  sudo systemctl status fail2ban 
+  910  sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local 
+  911  sudo vim /etc/fail2ban/jail.local 
+  912  sudo nano /etc/fail2ban/jail.local 
+  913  sudo systemctl restart apache2.service
+  914  nginx -t
+  915  clear
+  916  curl -O https://storage.googleapis.com/golang/go1.13.5.linux-amd64.tar.gz
+  917  tar -xvf go1.13.5.linux-amd64.tar.gz
+  918  sudo mv go /usr/local
+  919  sudo subl ~/.profile
+  920  sudo nano ~/.profile
+  921  source ~/.profile
+  922  go version
+  923  /bin/bash "/home/pradip/Code/ShellScript/test.sh"
+  924  /usr/bin/python
+  925  clear
+  926  /usr/bin/python /home/pradip/Code/Python/slack.py
+  927  sudo docker run hello-world
+  928  apt-get update
+  929  sudoapt-get update
+  930  sudo apt-get update
+  931  sudo apt-get remove docker docker-engine docker.io containerd runc
+  932  sudo apt autoremove 
+  933  sudo apt-get install     ca-certificates     curl     gnupg     lsb-release
+  934  sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  935  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  936    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  937  sudo apt-get update
+  938  sudo apt-get install docker-ce docker-ce-cli containerd.io
+  939  sudo docker run hello-world
+  940  sudo docker images
+  941  sudo docker ps -a
+  942  docker pull caffix/amass
+  943  sudo docker pull caffix/amass
+  944  docker ls
+  945  docker list
+  946  sudo docker images
+  947  docker -i caffic/amass
+  948  docker -i caffic/amass:latest
+  949  docker -i caffix/amass:latest
+  950  docker run -i caffix/amass:latest
+  951  docker -i run caffix/amass:latest
+  952  man docker 
+  953  docker run 
+  954  docker run -i 
+  955  docker run caffix/amass:latest
+  956  sudo docker run caffix/amass:latest
+  957  sudo docker run caffix/amass:latest enum -d evil.com
+  958  clear
+  959  sudo docker run -i caffix/amass:latest enum -d google.com
+  960  type google.com httprobe
+  961  sudo apt-get install httprobe
+  962  go get -u github.com/tomnomnom/httprobe
+  963  go -v
+  964  go --version
+  965  go version
+  966  sudo apt install go
+  967  snap install go
+  968  cd Downloads/
+  969  ll
+  970  ls
+  971  cd sw/
+  972  tar -xzvf go1.17.7.linux-amd64
+  973  tar -xzvf go1.17.7.linux-amd64.tar.gz 
+  974  mv go /usr/local/
+  975  sudomv go /usr/local/
+  976  sudo mv go /usr/local/
+  977  ls  /usr/local/go/
+  978  go
+  979  nano ~/.bashrc
+  980  source ~/.bashrc
+  981  go
+  982  which go
+  983  go version
+  984  /bin/bash "/home/pradip/Code/ShellScript/test.sh"
+  985  man tee
+  986  /bin/bash "/home/pradip/Code/ShellScript/test.sh"
+  987  /bin/bash "/home/pradip/Code/ShellScript/Domain.sh"
+  988  /bin/bash "/home/pradip/Code/ShellScript/Resolve.sh"
+  989  cat subdomain.txt | httprobe | tee -a final.txt
+  990  l
+  991  cd Code/
+  992  ll
+  993  cd ShellScript/
+  994  ll
+  995  cat subdomain.txt | httprobe | tee -a final.txt
+  996  httprob
+  997  echo $PATH
+  998  cat ~/.bashrc 
+  999  echo $GOPATH
+ 1000  go get -u github.com/tomnomnom/httprobe
+ 1001  which httprobe
+ 1002  ll /usr/local/go/bin/
+ 1003  ll /usr/local/go/bin/go
+ 1004  go get -u github.com/tomnomnom/httprobe
+ 1005  sudo go get -u github.com/tomnomnom/httprobe
+ 1006  nano ~/.bashrc 
+ 1007  clear
+ 1008  go
+ 1009  echo "/usr/local/go/bin/go"
+ 1010  go
+ 1011  echo $HOME
+ 1012  source ~/.bashrc 
+ 1013  go
+ 1014  echo $GOPATH
+ 1015  echo $GOROOT
+ 1016  source ~/.bashrc 
+ 1017  go
+ 1018  echo $GOPATH
+ 1019  echo $PATH
+ 1020  source ~/.bashrc 
+ 1021  echo $PATH
+ 1022  go
+ 1023  cat /etc/environment 
+ 1024  nano /etc/environment 
+ 1025  nanp /etc/profile
+ 1026  nano /etc/profile
+ 1027  env
+ 1028  where env
+ 1029  which env
+ 1030  nano /usr/bin/env
+ 1031  source ~/.bashrc 
+ 1032  go
+ 1033  source ~/.bashrc 
+ 1034  go
+ 1035  nano /usr/bin/env
+ 1036  nano /etc/profile
+ 1037  nano /etc/environment 
+ 1038  sudo nano /etc/environment 
+ 1039  go
+ 1040  history | grep "httprobe"
+ 1041  go get -u github.com/tomnomnom/httprobe
+ 1042  sudo go get -u github.com/tomnomnom/httprobe
+ 1043  help gopath
+ 1044  env
+ 1045  echo $GOPATH
+ 1046  echo $GOROOT
+ 1047  nano ~/.profile 
+ 1048  source $HOME/.profile
+ 1049  go 
+ 1050  sudo go get -u github.com/tomnomnom/httprobe
+ 1051  httprobe 
+ 1052  clear
+ 1053  /bin/bash "/home/pradip/Code/ShellScript/Resolve.sh"
+ 1054  /bin/bash "/home/pradip/Code/ShellScript/Final.sh"
+ 1055  /home/pradip/Code/ShellScript/Resolve.shpython -u "/home/pradip/Code/ShellScript/Final.py"
+ 1056  python -u "/home/pradip/Code/ShellScript/Final.py"
+ 1057  cd Code/
+ 1058  ll
+ 1059  cd ShellScript/
+ 1060  ll
+ 1061  cat subdomain.txt | httprobe | tee -a Final.txt
+ 1062  man httprobe
+ 1063  cd..
+ 1064  cd ..
+ 1065  cd Downloads/
+ 1066  git clone CI SALARY ACCOUNT
+ 1067  git clone https://github.com/tomnomnom/httprobe.git
+ 1068  cd httprobe/
+ 1069  go buid main.go 
+ 1070  go build main.go 
+ 1071  mv main httprobe
+ 1072  ll
+ 1073  cp httprobe /usr/local/go/bin/
+ 1074  ll /usr/local/go/bin/
+ 1075  cd ..
+ 1076  man ./httprobe/
+ 1077  man httprobe/
+ 1078  man httprobe
+ 1079  cd ..
+ 1080  man httprobe
+ 1081  cd Downloads/httprobe/
+ 1082  mv httprobe /bin/
+ 1083  sudo mv httprobe /bin/
+ 1084  ll
+ 1085  ll /bin/
+ 1086  ll /bin/ | grep 'http'
+ 1087  cd /
+ 1088  man httprobe
+ 1089  httprobe -h
+ 1090  cd ~/Downloads
+ 1091  cd ~/Code
+ 1092  cd ShellScript/
+ 1093  ll
+ 1094  chmod +x *.sh
+ 1095  ll
+ 1096  /usr/bin/python /home/pradip/Code/Python/slack.py
+ 1097  pwsh
+ 1098  bash "/home/pradip/Code/ShellScript/PowerShellIn.sh"
+ 1099  /bin/bash "/home/pradip/Code/ShellScript/PowerShellIn.sh"
+ 1100  echo /home/pradip/Code/ShellScript/test.sh 
+ 1101  ll
+ 1102  crontab -l
+ 1103  ls
+ 1104  cd Code/
+ 1105  cd ShellScript/
+ 1106  nano test.sh
+ 1107  crontab -e
+ 1108  chmod +x test.sh 
+ 1109  ls
+ 1110  nano test.sh 
+ 1111  echo "Test" > lol
+ 1112  cat lol 
+ 1113  echo "Wow You Are beautiful" > lol
+ 1114  cat lol
+ 1115  nano test.sh 
+ 1116  cat test.sh 
+ 1117  ll
+ 1118  crontab -l
+ 1119  cat test.sh 
+ 1120  ./test.sh '
+ 1121  ./test.sh 
+ 1122  ll
+ 1123  crontab -e
+ 1124  nano test.sh 
+ 1125  ll
+ 1126  cat crontest 
+ 1127  ll
+ 1128  crontab -e
+ 1129  cronitor
+ 1130  curl -sOL https://cronitor.io/dl/linux_amd64.tar.gz
+ 1131  sudo tar xvf linux_amd64.tar.gz -C /usr/bin/
+ 1132  sudo cronitor configure --api-key <API-KEY>
+ 1133  sudo cronitor configure --api-key a4b7f96974c047ed89e30b781b394b9b
+ 1134  cronitor 
+ 1135  cronitor -l
+ 1136  cronitor discover 
+ 1137  ls
+ 1138  cd /home/pradip/
+ 1139  ll
+ 1140  cat cron
+ 1141  cat crontest 
+ 1142  ls
+ 1143  rm cron
+ 1144  rm crontest 
+ 1145  ll
+ 1146  l
+ 1147  ll
+ 1148  ls
+ 1149  go run "/home/pradip/Code/GoLang/1_Hello.go"
+ 1150  cd "/home/pradip/Code/Cpp/Programs/" && g++ 2_ClassTemp.cpp -o 2_ClassTemp && "/home/pradip/Code/Cpp/Programs/"2_ClassTemp
+ 1151  cd "/home/pradip/Code/Cpp/Programs/" && g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/home/pradip/Code/Cpp/Programs/"tempCodeRunnerFile
+ 1152  cd "/home/pradip/Code/Cpp/Programs/" && g++ copyCon.cpp -o copyCon && "/home/pradip/Code/Cpp/Programs/"copyCon
+ 1153  ip a
+ 1154  ping 8.8.8.8
+ 1155  pip install kivy
+ 1156  pip list
+ 1157  pip install –upgrade setuptools
+ 1158  python -m pip install -U pip
+ 1159  pip install kivy
+ 1160  sudo pip install kivy
+ 1161  python -m pip install --upgrade --force-reinstall pip
+ 1162  sudo pip install kivy
+ 1163  python3 -m pip install 
+ 1164  python3 -m pip install kivy
+ 1165  clear
+ 1166  pip list
+ 1167  pip install –upgrade setuptools
+ 1168  pip install -–upgrade setuptools
+ 1169  pip install --upgrade setuptools
+ 1170  pip3 install kivy
+ 1171  pip install ez_setup
+ 1172  pip3 install kivy
+ 1173  pip install --upgarde pip
+ 1174  pip install --upgrade pip
+ 1175  sudo apt-get install python-dev
+ 1176  clear
+ 1177  pip install wheel
+ 1178  pip3 install wheel
+ 1179  pip3 install kivy
+ 1180  pip3 install -U setuptools
+ 1181  pip3 install -U pip
+ 1182  pip3 install --upgrade setuptools
+ 1183  pip3 install --upgrade pip
+ 1184  pip3 install kivy
+ 1185  pip3 install kivymd
+ 1186  pip install kivy
+ 1187  pip list
+ 1188  pip3 install pylance
+ 1189  pip3 install Pylance
+ 1190  pip show kivy
+ 1191  python -u "/home/pradip/Code/Python/rps.py"
+ 1192  pip install kivy
+ 1193  /usr/bin/python /home/pradip/Code/Python/rps.py
+ 1194  python -u "/home/pradip/Code/Python/kivy.py"
+ 1195  /usr/bin/python3.9 /home/pradip/Code/Python/kivy.py
+ 1196  sudo apt-get install -y qemu-kvm qemu virt-manager virt-viewer libvirt-bin
+ 1197  apt-get update
+ 1198  sduo apt-get update
+ 1199  sudo apt-get update
+ 1200  docker pull manjarolinux/base
+ 1201  sudo docker pull manjarolinux/base
+ 1202  docker image list
+ 1203  sudo docker image list
+ 1204  sudo apt-get install python-kivy python-kivy-examples debhelper python python-all-dev cython libgl1-mesa-dev libgles2-mesa-dev
+ 1205  python -u "/home/pradip/Code/Kivy/1_Kivy.py"
+ 1206  docker image ls
+ 1207  sudo docker image ls
+ 1208  pip list
+ 1209  python -m virtualenv kivy_venv
+ 1210  source kivy_venv/bin/activate
+ 1211  python -m pip install "kivy[base]" kivy_examples
+ 1212  python3 -m pip install "kivy[base]" kivy_examples
+ 1213  clear
+ 1214  python3 pip install kivy_examples
+ 1215  python-m pip install kivy_examples
+ 1216  python3 -m pip install kivy_examples
+ 1217  sudo python3 -m pip install kivy_examples
+ 1218  cd /home/pradip/.local/lib/python3.6/site-packages/
+ 1219  ll
+ 1220  cd Kivy_examples-2.0.0.dist-info/
+ 1221  ll
+ 1222  cd ..
+ 1223  python kivy_venv/share/kivy-examples/demo/showcase/main.py
+ 1224  sudo python kivy_venv/share/kivy-examples/demo/showcase/main.py
+ 1225  cd /
+ 1226  pyth
+ 1227  sudo python3 kivy_venv/share/kivy-examples/demo/showcase/main.py
+ 1228  which main.py
+ 1229  python list
+ 1230  which kivy
+ 1231  ll
+ 1232  where kivy
+ 1233  find kivy'
+ 1234  find kivy
+ 1235  find Kivy
+ 1236  python3 -m 
+ 1237  history 
+ 1238  python3 -m virtualenv /home/pradip/Code/Kivy/kivy_venv
+ 1239  find homw
+ 1240  find home
+ 1241  clear
+ 1242  find kivy_examples
+ 1243  find kivy_example
+ 1244  find kivy
+ 1245  find / kivy_example
+ 1246  clear
+ 1247  egrep -c '(vmx|svm)' /proc/cpuinfo
+ 1248  sudo kvm-ok
+ 1249  sudo apt install cpu-checker
+ 1250  exit
+ 1251  git clone https://github.com/kivy/buildozer.git
+ 1252  cd buildozer
+ 1253  sudo python3 setup.py install
+ 1254  cd
+ 1255  ls
+ 1256  cd Code/Kivy/
+ 1257  l
+ 1258  cd buildozer/
+ 1259  ll
+ 1260  clear
+ 1261  docker image ls
+ 1262  sufo docker image ls
+ 1263  sudo docker image ls
+ 1264  docker run manjarolinux/base
+ 1265  usod docker run manjarolinux/base
+ 1266  sudo docker run manjarolinux/base
+ 1267  docker ps
+ 1268  sudo docker ps
+ 1269  sudo docker ps -a
+ 1270  docker run -it manjarolinux/base
+ 1271  sudp docker run -it manjarolinux/base
+ 1272  sudo docker run -it manjarolinux/base
+ 1273  clear
+ 1274  sudo apt install cpu-checker
+ 1275  sudo kvm-ok
+ 1276  sudo apt install -y qemu qemu-kvm libvirt-daemon libvirt-clients bridge-utils virt-manager
+ 1277  sudo systemctl status libvirtd
+ 1278  sudo systemctl enable --now libvirtd
+ 1279  lsmod | grep -i kvm
+ 1280  status libvirtd
+ 1281  systemctl status libvirtd
+ 1282  clear
+ 1283  sudo virt-manager
+ 1284  sudo apt-get install preload
+ 1285  sudo virt-manager
+ 1286  python -u "/home/pradip/Code/Kivy/1_Kivy.py"
+ 1287  /usr/bin/python3.9 /home/pradip/Code/Python/1_Kivy.py
+ 1288  /usr/bin/python3 /home/pradip/Code/Python/1_Kivy.py
+ 1289  /usr/bin/python /home/pradip/Code/Python/1_Kivy.py
+ 1290  ip a
+ 1291  ssh admin2@192.168.1.33
+ 1292  history | grep "kivy"
+ 1293  history | grep "kivy" | grep "docker"
+ 1294  history | grep "docker"
+ 1295  docker pull buildoaer
+ 1296  docker pull buildozer
+ 1297  sudo docker pull buildozer
+ 1298  sudo apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standar
+ 1299  sudo apt-get install remmina remmina-plugin-*
+ 1300  history
+ 1301  docker network ls
+ 1302  sudo docker network ls
+ 1303  docker network create test
+ 1304  sudo docker network create test
+ 1305  sudo docker network ls
+ 1306  docker image ls
+ 1307  sudo docker image ls
+ 1308  docker pull kivy/buildozer
+ 1309  sudo su
+ 1310  sudo systemctl status skype
+ 1311  init 6
+ 1312  sestatus
+ 1313  ssh htadmin@192.168.1.23
+ 1314  sudo apt install vim
+ 1315  ll
+ 1316  cd Desktop/
+ 1317  ll
+ 1318  vim test
+ 1319  sudo apt-get install emrocs
+ 1320  sudo apt-get install emacs
+ 1321  emacs learn
+ 1322  init 6
+ 1323  ssh htadmin@192.168.1.23
+ 1324  mv proxmox-ve_7.1-2.iso proxmox-ve_7.1-2.img
+ 1325  sudo add-apt-repository ppa:gezakovacs/ppa
+ 1326  sudo apt-get update
+ 1327  sudo apt-get install unetbootin
+ 1328  dsck
+ 1329  fdck
+ 1330  fsck
+ 1331  clear
+ 1332  lshw
+ 1333  fdisk
+ 1334  fdisk -l
+ 1335  sudo fdisk -l
+ 1336  cd Downloads/
+ 1337  mkdir ISOs
+ 1338  cd ..
+ 1339  pwd
+ 1340  ll
+ 1341  cd Documents/
+ 1342  ll
+ 1343  cp proxmox-ve_7.1-2.img /home/pradip/Downloads/ISOs/
+ 1344  mv proxmox-ve_7.1-2.img proxmox-ve_7.1-2.iso
+ 1345  sudo add-apt-repository ppa:colingille/freshlight
+ 1346  sudo apt-get update
+ 1347  sudo apt-get install winusb
+ 1348  echo "deb https://deb.etcher.io stable etcher" | sudo tee /etc/apt/sources.list.d/balena-etcher.list
+ 1349  sudo apt-key adv --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 379CE192D401AB61
+ 1350  sudo apt update
+ 1351  sudo apt-get install balena-etcher-electron
+ 1352  sudo apt-get install balena-etcher
+ 1353  ping 192.168.1.23
+ 1354  ping 192.168.1.5
+ 1355  ssh root@192.168.1.23
+ 1356  ip a
+ 1357  clear
+ 1358  ping 192.168.1.5
+ 1359  ping 192.168.1.49
+ 1360  ping 192.168.1.149
+ 1361  ping 8.8.8.8
+ 1362  ping 192.168.1.149
+ 1363  history
+ 1364  ping 192.168.1.5
+ 1365  ping 192.168.1.14*
+ 1366  ping 192.168.1.149
+ 1367  ping 192.168.1.5
+ 1368  ping 8.8.8.8
+ 1369  ip a
+ 1370  ping 192.168.1.5
+ 1371  ping 8.8.8.8
+ 1372  ping 192.168.1.5
+ 1373  clear
+ 1374  ping 192.168.1.5
+ 1375  clear
+ 1376  ping 192.168.1.5
+ 1377  ssh htadmin@192.168.1.5
+ 1378  ssh root@192.168.1.5
+ 1379  ping 192.168.1.5
+ 1380  dnsdomainname
+ 1381  sudo apt-get install nmap
+ 1382  nmap -sn 192.168.1.1/24 > All_Host
+ 1383  cat All_Host | less
+ 1384  ping 192.168.1.5
+ 1385  ping 192.168.1.1
+ 1386  sudo ip tuntap add name Tao0 mode tap
+ 1387  ifconfig
+ 1388  sudo ifconfig Tap0 up
+ 1389  sudo ip tuntap add name Tao0 mode tap
+ 1390  sudo ip tuntap add name tap0 mode tap
+ 1391  sudo ifconfig tap0
+ 1392  ifconfig
+ 1393  sudo ifconfig tap0 up
+ 1394  ifconfig
+ 1395  sudo macchanger -r enp0s31f6
+ 1396  ip a
+ 1397  ifconfig
+ 1398  sudo service network-manager stop
+ 1399  ifconfig  enp0s31f6 down
+ 1400  sudo ifconfig  enp0s31f6 down
+ 1401  $ sudo macchanger -m a8:5e:45:6a:0d:c9 enp0s31f6
+ 1402  sudo macchanger -m a8:5e:45:6a:0d:c9 enp0s31f6
+ 1403  sudo service network-manager start 
+ 1404  sudo ifconfig enp0s31f6
+ 1405  sudo service network-manager stop
+ 1406  sudo service network-manager start
+ 1407  sudo ifconfig enp0s31f6 up
+ 1408  ifconfig
+ 1409  ping 8.8.8.8
+ 1410  ifconfig
+ 1411  history
+ 1412  ip a
+ 1413  ip a | grep ens
+ 1414  ip a | grep en
+ 1415  ifconfig
+ 1416  $ sudo macchanger -r enp0s31f6
+ 1418  sudo macchanger -p enp0s31f6
+ 1419  sudo service network-manager stop
+ 1420  sudo service network-manager start
+ 1421  ifconfig
+ 1422  history
+ 1423  history > his

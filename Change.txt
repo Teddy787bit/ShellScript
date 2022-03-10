@@ -1,0 +1,12 @@
+Start Stop
+sudo service network-manager stop
+sudo service network-manager start
+ifconfig  $PORT down
+ifconfig $PORT up
+
+Random mac
+ sudo macchanger -r #PORT
+Custom mac
+sudo macchanger -m $MAC $PORT
+Set Deafult
+sudo macchanger -p $PORT 
